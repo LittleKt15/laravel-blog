@@ -24,13 +24,13 @@
                     <div class="row">
                         <div class="col-md-2"></div>
                         <div class="col-md-4">
-                            <img src="{{ asset('images/123.jpg') }}" id="headerImg" alt="">
+                            <img src="{{ asset('images/kzt1.jpg') }}" id="headerImg" alt="">
                         </div>
                         <div class="col-md-4">
                             <br><br><br>
                             <p class="hello">HELLO!</p>
                             <p class="itme">IT'S ME</p>
-                            <p class="yms">YE MYINT SOE</p>
+                            <p class="yms">Kyaw Zin Thein</p>
                             <p class="hc">THE HAPPY CODER</p>
                             <br>
                             <a href="{{ url('posts') }}">
